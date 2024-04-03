@@ -34,7 +34,7 @@ export class App extends gfx.GfxApp
 
         this.cameraControls = new gfx.OrbitControls(this.camera);
 
-        this.renderStyle = 'Wireframe';
+        this.renderStyle = 'Phong';
         this.model = 'bunny.obj';
         
         this.models = [];
