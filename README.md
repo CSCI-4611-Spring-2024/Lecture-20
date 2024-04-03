@@ -1,4 +1,4 @@
-# Lecture 20: Lighting and Shading
+# Lecture 21: Gouraud and Phong Shaders
 
 The latest commit will be the finished code at the end of class.  If you are intending to implement this program while watching the lecture video, you should checkout the commit labeled `pre-class commit`  to get the starter code.
 
